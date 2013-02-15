@@ -1,2 +1,2 @@
-image-compare
+image-compare!
 =============
